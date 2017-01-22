@@ -9,4 +9,4 @@ NotificationUtils.share.removeNotification("通知名称")
 NotificationUtils.share.setNotification(obs, "名称", selector: Selector,object: any)
 #发送通知
 NotificationUtils.share.postNotification(“名称”, object: any, userInfo: [])
-![image](https://github.com/FarmerChina/RedDotView/blob/master/notification.gif)  
+![image](https://github.com/FarmerChina/-NotfiactionUtils/blob/master/notification.gif)  
